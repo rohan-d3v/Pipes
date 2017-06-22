@@ -1,0 +1,42 @@
+Rohan Krishna Ramkhumar 
+Case ID: rxr353 
+Assignment 3: Pipes 
+
+Parent PID: 12075
+Child [Prisoner] 2 PID: 12077
+
+Child [Prisoner] 1 PID: 12076
+Game 1
+12076: Cooperate
+12077: Defect
+Game 2
+12076: Defect
+12077: Cooperate
+Game 3
+12076: Defect
+12077: Defect
+Game 4
+12076: Cooperate
+12077: Cooperate
+Game 5
+12076: Defect
+12077: Cooperate
+Game 6
+12076: Cooperate
+12077: Defect
+Game 7
+12076: Cooperate
+12077: Defect
+Game 8
+12076: Defect
+12077: Defect
+Game 9
+12076: Defect
+12077: Cooperate
+Game 10
+12076: Cooperate
+12077: Defect
+------------------------
+Score:
+12076 [Prisoner 1]: 52.5 years
+12077 [Prisoner 2]: 42.5 years
